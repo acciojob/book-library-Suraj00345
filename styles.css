@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+
+
+.book{
+	display:flex-inline;
+	justify-content:center;
+	align-items:center;
+	box-shadow: 3px 3px 5px 6px #ccc;
+}
+h1{
+	height:50px;
+	background-color:#f8f8f8;
+	text-align: center;
+}
+.d{
+	 font-weight: 900;
+}
+.c{
+	hdisplay: block;
+  width: 100%;
+  border: none;
+  background-color: #04AA6D;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+	color: white;
+}
+.b{
+	height:100;
+	background-color:#f8f8f8;
+}
+.x{
+	color:#777777;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
